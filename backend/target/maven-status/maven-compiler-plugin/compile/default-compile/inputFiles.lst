@@ -1,1 +1,8 @@
-/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/App.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/entities/User.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/controller/AccountController.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/SeamersApplication.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/services/UserService.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/dao/UserRepository.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/config/WebConfig.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/util/CustomErrorType.java
+/Users/itru/eclipse-workspace/backend/src/main/java/seam/backend/services/AppUserDetailsService.java

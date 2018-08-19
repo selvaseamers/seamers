@@ -1,1 +1,10 @@
-seam/backend/App.class
+seam/backend/services/AppUserDetailsService.class
+seam/backend/config/WebConfig.class
+seam/backend/controller/AccountController.class
+seam/backend/dao/UserRepository.class
+seam/backend/services/UserService.class
+seam/backend/SeamersApplication.class
+seam/backend/entities/User.class
+seam/backend/config/WebConfig$1.class
+seam/backend/entities/User$Role.class
+seam/backend/util/CustomErrorType.class
